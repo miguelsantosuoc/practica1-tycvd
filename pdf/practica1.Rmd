@@ -23,6 +23,12 @@ toc-title: Índice
 * Miguel Santos Pérez (miguel8santos@uoc.edu)
 * Alejandro Arzola García (aarzola@uoc.edu)
 
+# Repositorio Github
+
+Para la realización de esta práctica se ha creado un repositorio en _GitHub_ para trabajar de manera colaborativa y tener un control de versiones sobre el código fuente. Se puede acceder a este repositorio a través del siguiente enlace:
+
+* https://github.com/aarzola-uoc/practica1-tycvd
+
 # Título para el dataset
 
 # Descripción del dataset
