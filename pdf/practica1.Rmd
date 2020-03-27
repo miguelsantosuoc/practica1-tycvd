@@ -1,0 +1,48 @@
+---
+title: 'Práctica 1: Web scraping'
+author: "Miguel Santos Pérez  y Alejandro Arzola García"
+date: "14 de abril de 2020"
+output:
+  pdf_document:
+    number_sections: yes
+    toc: yes
+    toc_depth: '2'
+  html_document:
+    df_print: paged
+    toc: yes
+    toc_depth: '2'
+subtitle: UOC - Tipología y ciclo de vida de los datos
+toc-title: Índice
+---
+
+\newpage
+# Contexto
+
+# Componentes del grupo
+
+* Miguel Santos Pérez (miguel8santos@uoc.edu)
+* Alejandro Arzola García (aarzola@uoc.edu)
+
+# Título para el dataset
+
+# Descripción del dataset
+
+# Representación gráfica
+
+# Contenido
+
+# Agradecimientos
+
+# Inspiración
+
+# Licencia
+
+# Contribuciones al trabajo
+
+**Contribuciones**              |  **Firma**                    | 
+--------------------------------|:-----------------------------:|
+Investigación previa            | MSP, AAG
+Redacción de las respuestas     | MSP, AAG
+Creación del repositorio GitHub | MSP, AAG
+Desarrollo código               | MSP, AAG
+
