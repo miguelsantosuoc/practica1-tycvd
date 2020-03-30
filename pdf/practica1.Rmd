@@ -31,7 +31,11 @@ Para la realización de esta práctica se ha creado un repositorio en _GitHub_ p
 
 # Título para el dataset
 
+Euroliga 2019-2020. Marcadores y estadísticas.
+
 # Descripción del dataset
+
+
 
 # Representación gráfica
 
@@ -40,6 +44,8 @@ Para la realización de esta práctica se ha creado un repositorio en _GitHub_ p
 # Agradecimientos
 
 # Inspiración
+
+La creciente importancia de la explotación de los datos en el ámbito deportivo ha impactado de pleno en muchos deportes. Así, podemos ver como en el fútbol el Big Data es un elemento fundamental a la hora de diseñar campañas de marketing, fichar jugadores o preparar estrategias para partidos. En el baloncesto, es usado por todas las franquicias NBA y selecciones en los campeonatos continentales / mundiales. La inspiración de desarrollar este proyecto es un primer acercamiento a la extracción de datos para el baloncesto europeo de clubes, para su posterior análisis.
 
 # Licencia
 
